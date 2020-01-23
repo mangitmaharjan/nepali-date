@@ -2,8 +2,10 @@
     "name": "makka/nepali_date",
     "description": "A simple plugin to convert nepali date to english date",
     "keywords": [
-        "league",
-        "package"
+        "makka",
+        "package",
+        "laravel",
+        "nepali_date"
     ],
     "homepage": "https://github.com/php-loep/:package_name",
     "license": "MIT",

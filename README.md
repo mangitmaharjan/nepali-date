@@ -6,8 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/makka/nepali_date)
 
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+This package is made just to help anyone who wants to convert english date to nepali date. 
 
 ## Install
 
