@@ -1,0 +1,40 @@
+{
+    "name": "makka/nepali_date",
+    "description": "A simple plugin to convert nepali date to english date",
+    "keywords": [
+        "league",
+        "package"
+    ],
+    "homepage": "https://github.com/php-loep/:package_name",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ":makka",
+            "email": "mangitma@gmail.com",
+            "homepage": "http://mangitmaharjan.com.np",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Makka\\NepaliDate\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "laravel": {
+            "aliases": {
+                "NDate": "Makka\\NepaliDate\\NepaliDate"
+            }
+        }
+        
+    }
+}
